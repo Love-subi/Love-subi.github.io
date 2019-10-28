@@ -1,0 +1,15 @@
+.fun{
+	font-family:love;
+	font-size:36px;
+	text-shadow: -3px 0px 5px #bbdefb, 0px 0px 2px #bbdefb;
+	color:red;
+}
+
+@font-face {
+	font-family:"love";
+	src:url("./UKIJRu.ttf");
+}
+
+.fun .date{
+	position:bottom;
+}
